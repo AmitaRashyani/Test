@@ -1,2 +1,0 @@
-# Test
-Sword Risk Project
